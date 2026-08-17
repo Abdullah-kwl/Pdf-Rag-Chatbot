@@ -1,0 +1,12 @@
+streamlit>=1.40
+langgraph>=0.2.60
+langchain-core>=0.3.29
+langchain-community>=0.3.14
+langchain-huggingface>=0.1.2
+langchain-chroma>=0.2.0
+langchain-groq>=0.2.3
+langchain-text-splitters>=0.3.5
+sentence-transformers>=3.3
+chromadb>=0.5.23
+pypdf>=5.1
+python-dotenv>=1.0
